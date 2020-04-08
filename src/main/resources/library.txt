@@ -1,0 +1,3 @@
+https://mdabrowski.net/feign-deklaratywny-klient-w-microserwisach/
+https://www.baeldung.com/spring-cloud-openfeign
+https://github.com/eugenp/tutorials/tree/master/spring-cloud/spring-cloud-openfeign
